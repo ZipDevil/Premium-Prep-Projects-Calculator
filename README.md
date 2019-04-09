@@ -8,7 +8,7 @@ How we can use the JavaScript eval function to evaluate javascript as a string. 
 
 Instructions for working on the code on your machine offline:
 
-Download a text editor: I work with Sublime Text: https://www.sublimetext.com/3 However, there are many other cool options: Atom, Visual Studio Code
+Download a text editor: I work with Sublime Text: https://www.sublimetext.com/3. There are many other cool options: Atom, Visual Studio Code.
 
 Downloading the source code from Github:
 
